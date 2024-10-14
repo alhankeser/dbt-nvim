@@ -1,6 +1,8 @@
-# Be a more efficient dbt Analytics Engineer in neovim
+# dbt-nvim: be a more efficient Analytics Engineer
 
 A neovim plugin that gives you shortcuts to do everyday tasks in dbt.
+
+https://github.com/user-attachments/assets/27af296d-87c0-4c75-8181-5136f199772d
 
 Current features:
 
