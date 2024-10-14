@@ -2,7 +2,9 @@
 
 A neovim plugin that gives you shortcuts to do everyday tasks in dbt.
 
-https://github.com/user-attachments/assets/27af296d-87c0-4c75-8181-5136f199772d
+![demo_show_results_preview](https://github.com/user-attachments/assets/1ef34f0c-3bf6-47c0-a82a-15549acdb0f5)
+
+[Video demo](https://youtu.be/LB6GXFVRNDw)
 
 Current features:
 
